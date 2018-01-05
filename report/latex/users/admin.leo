@@ -49,7 +49,7 @@
 <v t="yen.20170429215446.4"><vh>Brython</vh></v>
 <v t="yen.20170429215446.5"><vh>PyQt</vh></v>
 </v>
-<v t="yen.20170429215617.1"><vh>@clean computer_aided_design.md</vh>
+<v t="yen.20170429215617.1" a="E"><vh>@clean computer_aided_design.md</vh>
 <v t="yen.20170429215851.1"><vh>自動控制</vh></v>
 <v t="yen.20170429215830.1"><vh>機械系統模擬</vh></v>
 <v t="yen.20170429215802.1"><vh>演化運算</vh></v>
@@ -69,12 +69,12 @@
 </v>
 </v>
 </v>
-<v t="ahshoe.20170129120932.1" a="E"><vh>Readme</vh>
+<v t="ahshoe.20170129120932.1"><vh>Readme</vh>
 <v t="ahshoe.20170129120858.1"><vh>@edit README.md</vh></v>
 </v>
 </v>
-<v t="leo.20180104143728.1" a="E"><vh>Recovered Nodes</vh>
-<v t="leo.20180104143728.2"><vh>Recovered node "摘要" from @clean cover_and_abstract.md</vh>
+<v t="leo.20180104143728.1"><vh>Recovered Nodes</vh>
+<v t="leo.20180104143728.2" a="E"><vh>Recovered node "摘要" from @clean cover_and_abstract.md</vh>
 <v t="leo.20180104143728.3"><vh>old:摘要</vh></v>
 <v t="leo.20180104143728.4"><vh>new:摘要</vh></v>
 </v>
@@ -131,17 +131,18 @@ print('-'*12)</t>
 university_zh: '國立虎尾科技大學'
 institute_zh: '機械設計工程系'
 category_zh: '電腦輔助設計實習 ag8 期末報告'
-title_zh: 'PyQt5 事件導向計算器'
-title_en: 'PyQt5 Event-Driven Calculator Project'
+title_zh: '鋼球運動系統'
+title_en: '  '
 author:
-- 設計二甲 40523145 XXX
-- 設計二甲 40523144 XXX
-- 設計二甲 40523143 XXX
-- 設計二甲 40523142 XXX
-- 設計二甲 40523141 XXX
+- 設計二甲 40523145 謝丞智
+- 設計二甲 40523144 錢毅軒
+- 設計二甲 40523143 蕭志安
+- 設計二甲 40523142 蔣瑞鎮
+- 設計二甲 40523141 蔡兵常
+- 設計二甲 40523140 劉韋辰
 
 advisor_zh: '嚴家銘'
-date: '2017.12.18'
+date: '2018.01.05'
 ---
 
 @others

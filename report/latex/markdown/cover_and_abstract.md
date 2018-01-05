@@ -2,17 +2,18 @@
 university_zh: '國立虎尾科技大學'
 institute_zh: '機械設計工程系'
 category_zh: '電腦輔助設計實習 ag8 期末報告'
-title_zh: 'PyQt5 事件導向計算器'
-title_en: 'PyQt5 Event-Driven Calculator Project'
+title_zh: '鋼球運動系統'
+title_en: '  '
 author:
-- 設計二甲 40523145 XXX
-- 設計二甲 40523144 XXX
-- 設計二甲 40523143 XXX
-- 設計二甲 40523142 XXX
-- 設計二甲 40523141 XXX
+- 設計二甲 40523145 謝丞智
+- 設計二甲 40523144 錢毅軒
+- 設計二甲 40523143 蕭志安
+- 設計二甲 40523142 蔣瑞鎮
+- 設計二甲 40523141 蔡兵常
+- 設計二甲 40523140 劉韋辰
 
 advisor_zh: '嚴家銘'
-date: '2017.12.18'
+date: '2018.01.05'
 ---
 
 ---
